@@ -1,4 +1,4 @@
-Filiph:
+filiph:
   name: Filiph Siitam Sandström
   picture: https://github.com/filiphsps.png
   twitter: "@filiphsandstrom"
@@ -6,3 +6,6 @@ Filiph:
     - title: Twitter
       url: https://twitter.com/filiphsandstrom
       icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/filiphsandstrom
+      icon: fab fa-instagram

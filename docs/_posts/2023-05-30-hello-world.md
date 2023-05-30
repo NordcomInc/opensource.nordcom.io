@@ -1,6 +1,6 @@
 ---
 title: "Hello World!"
-author: "Filiph"
+author: "filiph"
 categories:
   - Meta
 tags:
