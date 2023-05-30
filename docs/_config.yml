@@ -1,5 +1,5 @@
 remote_theme: "mmistakes/so-simple-theme"
-skin: "/assets/css/skins/dark.css"
+skin: "/assets/css/skins/light.css"
 locale: en
 title: "Open Source @ Sweet Side of Sweden"
 description: "Sweet Side of Sweden's Open Source work."
@@ -83,10 +83,13 @@ author:
 footer_links:
   - title: Sweet Side of Sweden
     url: https://www.sweetsideofsweden.com/
-    icon: fab fa-github-square
+    icon: fass fa-store
   - title: GitHub
     url: https://github.com/sweet-side-of-sweden/
-    icon: fab fa-shopping-bag
+    icon: fab fa-github-square
   - title: Instagram
     url: https://instagram.com/sweetsideofsweden/
     icon: fab fa-instagram
+
+# Footer Copyright
+copyright: "&copy; 2023 Sweet Side of Sweden. The site's theme is mmistakes/so-simple-theme."
