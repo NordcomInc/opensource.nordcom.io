@@ -81,6 +81,12 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Sweet Side of Sweden
+    url: https://www.sweetsideofsweden.com/
+    icon: fab fa-github-square
   - title: GitHub
     url: https://github.com/sweet-side-of-sweden/
-    icon: fab fa-github-square
+    icon: fab fa-bag-shopping
+  - title: Instagram
+    url: https://instagram.com/sweetsideofsweden/
+    icon: fab fa-instagram
