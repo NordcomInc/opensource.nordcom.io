@@ -11,8 +11,8 @@ read_time: true # reading time estimates, e.g. true
 words_per_minute: 120 # 200
 mathjax:
   enable: false # MathJax equations, e.g. true, false (default)
-  combo: # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
-  tags: # "none", "ams" (default), "all"
+  combo: "tex-svg" # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
+  tags: "none" # "none", "ams" (default), "all"
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -76,14 +76,21 @@ defaults:
 # Site Author
 author:
   name: Open Source @ Sweet Side of Sweden
-  picture: https://github.com/sweet-side-of-sweden.png
+  picture: https://www.sweetsideofsweden.com/
   email: opensource@sweetsideofsweden.com
+  links:
+    - title: fas fa-shopping-bag
+      url: https://twitter.com/filiphsandstrom/
+      icon: fas fa-shopping-bag
+    - title: Instagram
+      url: https://instagram.com/sweetsideofsweden/
+      icon: fab fa-instagram
 
 # Footer Links
 footer_links:
   - title: Sweet Side of Sweden
     url: https://www.sweetsideofsweden.com/
-    icon: fas fa-store-alt
+    icon: fas fa-shopping-bag
   - title: GitHub
     url: https://github.com/sweet-side-of-sweden/
     icon: fab fa-github-square

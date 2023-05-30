@@ -3,9 +3,12 @@ filiph:
   picture: https://github.com/filiphsps.png
   twitter: "@filiphsandstrom"
   links:
+    - title: GitHub
+      url: https://github.com/filiphsps/
+      icon: fab fa-github-square
     - title: Twitter
-      url: https://twitter.com/filiphsandstrom
+      url: https://twitter.com/filiphsandstrom/
       icon: fab fa-twitter-square
     - title: Instagram
-      url: https://instagram.com/filiphsandstrom
+      url: https://instagram.com/filiphsandstrom/
       icon: fab fa-instagram
