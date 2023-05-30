@@ -1,11 +1,11 @@
 ---
-title: "Post: Hello World!"
+title: "Hello World!"
 author: "filiph"
 categories:
   - Meta
 tags:
   - information
-last_modified_at: 2023-05-30T04:45:13Z
+last_modified_at: 2023-05-30T04:55:13Z
 ---
 
 We're still getting setup here so so I'm sorry for the mess.
