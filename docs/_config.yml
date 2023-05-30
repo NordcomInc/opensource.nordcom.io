@@ -83,7 +83,7 @@ author:
 footer_links:
   - title: Sweet Side of Sweden
     url: https://www.sweetsideofsweden.com/
-    icon: fas fa-store
+    icon: fas fa-store-alt
   - title: GitHub
     url: https://github.com/sweet-side-of-sweden/
     icon: fab fa-github-square
