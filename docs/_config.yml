@@ -72,6 +72,14 @@ defaults:
       layout: post
       comments: true
       share: true
+  # Project defaults
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: post
+      comments: true
+      share: true
 
 # Site Author
 author:
